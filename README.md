@@ -13,6 +13,15 @@ pour un évènement fictif organisé par la **Société des amis d’Alexandre D
 
 ---
 
+## 💻 Logiciel utilisé
+
+Pour la réalisation de ce projet, nous avons utilisé **Marionnet**, un logiciel de virtualisation permettant de simuler des réseaux complets avec des **machines virtuelles Linux interconnectées**, afin de :
+
+- Créer et organiser facilement l’architecture réseau
+- Simuler un environnement proche de la réalité pour l’apprentissage
+
+---
+
 ## ⚙️ Ce que j’ai réalisé
 
 ✅ Configuration des interfaces réseau (IP, passerelles, routes statiques)  
